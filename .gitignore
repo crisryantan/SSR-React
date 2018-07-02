@@ -5,6 +5,7 @@ node_modules/
 
 # Compiled output
 build
+public
 
 # Runtime data
 database.sqlite
