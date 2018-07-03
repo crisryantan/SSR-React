@@ -12,7 +12,7 @@ export default req => {
 
   return `
     <html>
-      <head>SSR Practice</head>
+      <head></head>
 
       <body>
         <div id="root">${content}</div>
