@@ -18,7 +18,6 @@ export default (req, store) => {
   return `
     <html>
       <head></head>
-
       <body>
         <div id="root">${content}</div>
         <script>
